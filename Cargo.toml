@@ -1,5 +1,6 @@
 [workspace]
 members = [
+    "a_word_capitalization",
     "main",
     "algo_lib",
 ]
